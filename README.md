@@ -1,5 +1,6 @@
 # Workshop 1: Portfolio Website Workshop (Starter Code)
 
+
 Welcome to the **Portfolio Website Workshop**! This hands-on session will teach you how to build a beautiful, modern portfolio website using only HTML and CSS.
 
 ## Instructor
